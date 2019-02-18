@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main(void)
+int main()
 {
 	int z,x,flag=0,count1=0;
 	int t,k;
@@ -20,8 +20,7 @@ void main(void)
 	}
 	if(flag==0)
 	{
-		count1=coun1t+1;
+		count1=count1+1;
 	}
 	}
 	printf("%d",count1);
-}
