@@ -10,7 +10,7 @@ try:
                      j+=1
                      c+=1
                 if(c>1):
-                      print("NO")
+                      print("no")
                       break
             if(c==1):
                  print("yes")         
