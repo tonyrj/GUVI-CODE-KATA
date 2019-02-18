@@ -1,2 +1,2 @@
-p=input()
-print(str.title(p))
+pa=input()
+print(str.title(pa))
